@@ -16,6 +16,9 @@ Clone the repository: [git clone https://github.com/D-Micheni/Gadget-Centre.git]
 Change Directory: [cd Gadget-Centre]
 
 Open index.html file on your browser
+#### Live Page
+https://github.com/D-Micheni/Gadget-Centre.git
+
 
 
 
