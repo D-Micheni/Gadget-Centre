@@ -8,5 +8,15 @@ Gadget-Centre is a web app that provides customers with a one-stop shop for all 
 * CSS
 * JavaScript
 * Json
+#### Setup Instructions
+Open the Terminal command line: [CTRL+ALT+T]
+
+Clone the repository: [git clone https://github.com/D-Micheni/Gadget-Centre.git]
+
+Change Directory: [cd Gadget-Centre]
+
+Open index.html file on your browser
+
+
 
 
