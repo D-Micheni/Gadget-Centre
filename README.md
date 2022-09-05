@@ -18,6 +18,13 @@ Change Directory: [cd Gadget-Centre]
 Open index.html file on your browser
 #### Live Page
 https://github.com/D-Micheni/Gadget-Centre.git
+#### Sample Screenshots
+
+#### Contact Information
+Incase of any enquiries or contributions, be sure to email me at["dennis.michemi@student.moringaschool.com"]
+#### License
+
+
 
 
 
