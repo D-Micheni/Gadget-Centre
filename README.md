@@ -20,7 +20,8 @@ Open index.html file on your browser
 https://github.com/D-Micheni/Gadget-Centre.git
 #### Sample Screenshots
 
-
+             Home page
+![site screenshot](https://user-images.githubusercontent.com/108609340/188550704-3a94926d-2507-43ac-a395-c7901e4ead3a.jpeg)
 
 
 
